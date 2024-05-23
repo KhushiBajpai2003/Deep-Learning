@@ -1,4 +1,4 @@
-Deep Learning Repository
+# Deep Learning Repository
 Welcome to the Deep Learning Repository! This repository contains various projects and assignments related to deep learning implemented using Python and popular deep learning libraries such as TensorFlow and Keras.
 
 Projects
