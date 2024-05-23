@@ -4,10 +4,10 @@ Welcome to the Deep Learning Repository! This repository contains various projec
 
 # Projects
 
-# Bajaj Finance-RNN-GRU.ipynb - 
+Bajaj Finance-RNN-GRU.ipynb - 
 This project implements a recurrent neural network (RNN) with Gated Recurrent Units (GRU) to analyze financial data from Bajaj Finance.
 
-# Bank_Intend_LSTM.ipynb - 
+Bank_Intend_LSTM.ipynb - 
 In this project, a Long Short-Term Memory (LSTM) model is used to classify banking customer intents based on textual data.
 
 BrainTumor.ipynb - 
@@ -28,12 +28,12 @@ An implementation of a deep learning model using TensorFlow/Keras to classify fa
 Intent_Detection_LSTM.ipynb - 
 A project where an LSTM model is trained to detect intents in natural language text for use in chatbot applications.
 
-Assignments
+# Assignments
 Linear Regression and Sigmoid Neuron Implementation - This assignment involves implementing linear regression and a single sigmoid neuron from scratch using Python and NumPy.
 
 Perceptron Function(Practical-1).ipynb - An assignment focusing on the implementation and understanding of the perceptron function.
 
 Perceptron Model(Practical-2).ipynb - Another assignment covering the implementation and training of a perceptron model for binary classification tasks.
 
-License
+# License
 This repository is licensed under the MIT License.
