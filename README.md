@@ -2,7 +2,8 @@
 
 Welcome to the Deep Learning Repository! This repository contains various projects and assignments related to deep learning implemented using Python and popular deep learning libraries such as TensorFlow and Keras.
 
-Projects
+# Projects
+
 Bajaj Finance-RNN-GRU.ipynb - This project implements a recurrent neural network (RNN) with Gated Recurrent Units (GRU) to analyze financial data from Bajaj Finance.
 
 Bank_Intend_LSTM.ipynb - In this project, a Long Short-Term Memory (LSTM) model is used to classify banking customer intents based on textual data.
